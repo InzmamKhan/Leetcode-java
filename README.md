@@ -1,8 +1,5 @@
-# Leetcode-java
+# Leetcode-Java
 My personal roadmap through LeetCode. Solved with a focus on optimization and organized by difficulty level.
-# LeetCode Solutions
-
-A structured archive of my algorithmic challenges solved in Java, organized by difficulty level.
 
 ## 📊 Progress Tracker
 
