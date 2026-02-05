@@ -2,14 +2,11 @@
 My personal roadmap through LeetCode. Solved with a focus on optimization and organized by difficulty level.
 
 ## 📊 Progress Tracker
-
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
 | 🟢 **Easy** | 1 | Feb 01, 2026 |
 | 🟡 **Medium** | 3 | Feb 05, 2026 |
 | 🔴 **Hard** | 1 | Feb 04, 2026 |
-
----
 
 ## 📂 Folder Structure
 
