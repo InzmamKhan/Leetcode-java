@@ -8,7 +8,7 @@ My personal roadmap through LeetCode. Solved with a focus on optimization and or
 | 🟡 **Medium** | 6 | Feb 09, 2026 |
 | 🔴 **Hard** | 1 | Feb 04, 2026 | 
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
 
 * `/Easy` - Conceptual basics and logic foundations.
 * `/Medium` - Optimized solutions for complex data structures.
