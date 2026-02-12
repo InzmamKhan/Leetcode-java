@@ -4,9 +4,9 @@ My personal roadmap through LeetCode. Solved with a focus on optimization and or
 ## 📊 Progress Tracker
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
-| 🟢 **Easy** | 2 | Feb 01, 2026 |
+| 🟢 **Easy** | 2 | Feb 12, 2026 |
 | 🟡 **Medium** | 6 | Feb 09, 2026 |
-| 🔴 **Hard** | 1 | Feb 04, 2026 | 
+| 🔴 **Hard** | 2 | Feb 12, 2026 | 
 
 ## 📂 Folder Structure 
  
