@@ -5,7 +5,7 @@ My personal roadmap through LeetCode. Solved with a focus on optimization and or
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
 | 🟢 **Easy** | 2 | Feb 12, 2026 |
-| 🟡 **Medium** | 6 | Feb 09, 2026 |
+| 🟡 **Medium** | 7 | Feb 09, 2026 |
 | 🔴 **Hard** | 2 | Feb 12, 2026 | 
 
 ## 📂 Folder Structure 
