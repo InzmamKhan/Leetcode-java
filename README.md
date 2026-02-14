@@ -4,7 +4,7 @@ My personal roadmap through LeetCode. Solved with a focus on optimization and or
 ## 📊 Progress Tracker
 | Difficulty | Solved | Last Updated |
 | :--- | :--- | :--- |
-| 🟢 **Easy** | 2 | Feb 12, 2026 |
+| 🟢 **Easy** | 3 | Feb 14, 2026 |
 | 🟡 **Medium** | 8 | Feb 14, 2026 |
 | 🔴 **Hard** | 2 | Feb 12, 2026 | 
 
