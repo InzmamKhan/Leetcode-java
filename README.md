@@ -16,3 +16,15 @@ My personal roadmap through LeetCode. Solved with a focus on optimization and or
 ---
 ## 🛠️ Languages Used
 * **Java** (100%) 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/InzmamKhan/Leetcode-java/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/InzmamKhan/Leetcode-java/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
