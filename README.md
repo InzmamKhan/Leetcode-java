@@ -24,7 +24,7 @@ This repository serves as a personal archive for Java-based solutions to various
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/InzmamKhan/Leetcode-java/tree/main/0001-two-sum/) | Easy 🟢 |
+| [0001-two-sum](https://github.com/InzmamKhan/Leetcode-java/tree/main/0001-two-sum/) | Easy |
 
 
 <!---LeetCode Topics Start-->
