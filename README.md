@@ -29,6 +29,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/InzmamKhan/Leetcode-java/tree/main/0001-two-sum/) | Easy 🟢 |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InzmamKhan/Leetcode-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,12 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0002-add-two-numbers/) | Medium 🟡 |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InzmamKhan/Leetcode-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/InzmamKhan/Leetcode-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
