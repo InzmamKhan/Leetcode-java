@@ -62,6 +62,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0006-zigzag-conversion](https://github.com/InzmamKhan/Leetcode-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/InzmamKhan/Leetcode-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/InzmamKhan/Leetcode-java/tree/main/0012-integer-to-roman/) | Medium |
+| [0058-length-of-last-word](https://github.com/InzmamKhan/Leetcode-java/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
