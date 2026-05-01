@@ -51,6 +51,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0012-integer-to-roman](https://github.com/InzmamKhan/Leetcode-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/InzmamKhan/Leetcode-java/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/InzmamKhan/Leetcode-java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/InzmamKhan/Leetcode-java/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/InzmamKhan/Leetcode-java/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
