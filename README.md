@@ -43,6 +43,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0005-longest-palindromic-substring](https://github.com/InzmamKhan/Leetcode-java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/InzmamKhan/Leetcode-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
