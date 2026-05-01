@@ -31,6 +31,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0048-rotate-image](https://github.com/InzmamKhan/Leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0005-longest-palindromic-substring](https://github.com/InzmamKhan/Leetcode-java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/InzmamKhan/Leetcode-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
