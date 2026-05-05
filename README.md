@@ -34,6 +34,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0050-powx-n](https://github.com/InzmamKhan/Leetcode-java/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/InzmamKhan/Leetcode-java/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/InzmamKhan/Leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
