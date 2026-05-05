@@ -40,6 +40,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0001-two-sum](https://github.com/InzmamKhan/Leetcode-java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InzmamKhan/Leetcode-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/InzmamKhan/Leetcode-java/tree/main/0012-integer-to-roman/) | Medium |
+| [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0002-add-two-numbers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/InzmamKhan/Leetcode-java/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
