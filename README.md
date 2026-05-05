@@ -31,6 +31,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0048-rotate-image](https://github.com/InzmamKhan/Leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0011-container-with-most-water](https://github.com/InzmamKhan/Leetcode-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/InzmamKhan/Leetcode-java/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Dynamic Programming
@@ -117,4 +119,8 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/InzmamKhan/Leetcode-java/tree/main/0048-rotate-image/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
