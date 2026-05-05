@@ -33,6 +33,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0029-divide-two-integers/) | Medium |
+| [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
