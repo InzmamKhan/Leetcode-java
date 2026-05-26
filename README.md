@@ -148,4 +148,20 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/InzmamKhan/Leetcode-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
