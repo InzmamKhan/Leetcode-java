@@ -52,6 +52,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/InzmamKhan/Leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -75,6 +76,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/InzmamKhan/Leetcode-java/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/InzmamKhan/Leetcode-java/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/InzmamKhan/Leetcode-java/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
