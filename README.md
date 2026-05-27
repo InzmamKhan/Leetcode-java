@@ -33,6 +33,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0055-jump-game](https://github.com/InzmamKhan/Leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/InzmamKhan/Leetcode-java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
@@ -119,6 +120,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/InzmamKhan/Leetcode-java/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/InzmamKhan/Leetcode-java/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/InzmamKhan/Leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -150,6 +152,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/InzmamKhan/Leetcode-java/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/InzmamKhan/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
