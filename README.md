@@ -48,6 +48,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0125-valid-palindrome](https://github.com/InzmamKhan/Leetcode-java/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/InzmamKhan/Leetcode-java/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/InzmamKhan/Leetcode-java/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/InzmamKhan/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
