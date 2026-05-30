@@ -40,6 +40,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InzmamKhan/Leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/InzmamKhan/Leetcode-java/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/InzmamKhan/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/InzmamKhan/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/InzmamKhan/Leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -116,6 +117,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0004-median-of-two-sorted-arrays](https://github.com/InzmamKhan/Leetcode-java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/InzmamKhan/Leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/InzmamKhan/Leetcode-java/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/InzmamKhan/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [3161-block-placement-queries](https://github.com/InzmamKhan/Leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@ This repository serves as a personal archive for Java-based solutions to various
 | [0141-linked-list-cycle](https://github.com/InzmamKhan/Leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/InzmamKhan/Leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/InzmamKhan/Leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/InzmamKhan/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/InzmamKhan/Leetcode-java/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
